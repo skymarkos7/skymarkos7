@@ -27,7 +27,7 @@
 #### Tenho preferência em desenvolvimento web, mas aberto a oportunidades
 Estou em busca da minha primeira experiência formal, carteira fichada e trabalhando ao lado de pessoas experiêntes. Tenho uma enorme vontade de ingressar no mercado e necessído de uma oprtunidade para que eu possa me desenvolver profissionalmente e mostrar meu potêncial.
 
-#### Hoje focado em:
+### Hoje focado em:
 * Flutter
 
 ### Perfil Social / Profissional
