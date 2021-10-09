@@ -7,7 +7,7 @@
 - [calculadora](https://calculadora.lourencoautopecas.com.br/) 
 - [portfólio](https://portfolio.lourencoautopecas.com.br/) 
 
-#### Venho me aprimorando em:
+#### Já utilizei essas tecnologias:
 * Git (github / bitbucket)
 * PHP
 * JavaScript
@@ -19,12 +19,16 @@
 * MVC
 * Mysql
 * Bootstrap
+* Flutter
 * Linux / windows / MacOs
 * Experiência em manutenção de hardware.
 * Inglês intermediário, nível de leitura de textos. 
 
 #### Tenho preferência em desenvolvimento web, mas aberto a oportunidades
 Estou em busca da minha primeira experiência formal, carteira fichada e trabalhando ao lado de pessoas experiêntes. Tenho uma enorme vontade de ingressar no mercado e necessído de uma oprtunidade para que eu possa me desenvolver profissionalmente e mostrar meu potêncial.
+
+#### Hoje focado em:
+* Flutter
 
 ### Perfil Social / Profissional
 - [Linkedin](https://www.linkedin.com/in/marcos-louren%C3%A7o-20a041141/) 
