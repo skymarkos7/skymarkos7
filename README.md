@@ -3,7 +3,7 @@
 
 #### Fiz alguns projetos comeciais e pessoais que estão hospedados para conferência 
 - [rede comercializar](https://rede.lourencoautopecas.com.br/)
-- [gerenciando estoque](https://estoque.lourencoautopecas.com.br/paginas/login.php) 
+- [gerenciando estoque](https://estoque-junto.lourencoautopecas.com.br/paginas/relatorios.php) 
 - [calculadora](https://calculadora.lourencoautopecas.com.br/) 
 - [portfólio](https://portfolio.lourencoautopecas.com.br/) 
 
@@ -28,7 +28,7 @@
 Estou em busca da minha primeira experiência formal, carteira fichada e trabalhando ao lado de pessoas experiêntes. Tenho uma enorme vontade de ingressar no mercado e necessído de uma oprtunidade para que eu possa me desenvolver profissionalmente e mostrar meu potêncial.
 
 ### Hoje focado em:
-* Flutter
+* Php
 
 ### Perfil Social / Profissional
 - [Linkedin](https://www.linkedin.com/in/marcos-louren%C3%A7o-20a041141/) 
