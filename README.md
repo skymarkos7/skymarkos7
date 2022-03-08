@@ -13,6 +13,7 @@
 * JavaScript
 * Html/Css
 * Python / Django
+* Heroku
 * Api / Django rest framework
 * Requests/python
 * API
