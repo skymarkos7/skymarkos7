@@ -1,4 +1,4 @@
-### 👋 Olá, me chamo Marcos Lourenço, sou formado em Analise e desenvolvimento de sistemas pela Universidade Estadual de Alagoas e conclui em 2019.
+### 👋 Olá, me chamo Marcos Lourenço, sou formado em Analise e desenvolvimento de sistemas.
 
 <div align="center">
   <a href="https://github.com/skymarkos7">
