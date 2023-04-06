@@ -1,4 +1,4 @@
-### 👋 Olá, me chamo Marcos Lourenço, sou formado em Analise e desenvolvimento de sistemas desde 2019 e desenvolvo desde 2016, atualmente minha linguagem principal é PHP.
+### 👋 Olá, me chamo Marcos Lourenço, sou formado em Analise e desenvolvimento de sistemas desde 2019 e desenvolvo desde 2016, atualmente minhas tecnologias principais são PHP e VUE.
 
 <div align="center">
   <a href="https://github.com/skymarkos7">
