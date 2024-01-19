@@ -1,4 +1,10 @@
-### 👋 Olá, me chamo Marcos Lourenço, sou formado em Analise e desenvolvimento de sistemas desde 2019 e desenvolvo desde 2016, atualmente minhas tecnologias principais são PHP e VUE.
+Graduated in Systems Analysis and Development, I have worked in web development since 2016, standing out as a Fullstack Developer. My expertise covers various technologies, such as PHP, VUE, QUASAR, REST API, MySQL, MariaDB, Laravel, JSON, JavaScript, jQuery, Angular, Docker, Azure and GIT (Git Flow), among others. I adopt SCRUM and KANBAN methodologies in my workflow, facing challenges with determination.
+
+I believe that programming languages and frameworks are tools to achieve goals, and I am always open to exploring new technologies when necessary to overcome challenges. I face complex demands with courage that drive my rapid and constant growth.
+
+I am currently improving my English skills through a conversation-focused course. Furthermore, I continue to deepen my knowledge in Design Patterns.
+
+Contact by email marcosrealbmata@gmail.com or by phone (82) 996909200.
 
 <div align="center">
   <a href="https://github.com/skymarkos7">
