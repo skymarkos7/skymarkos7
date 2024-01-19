@@ -1,10 +1,10 @@
-Graduated in Systems Analysis and Development, I have worked in web development since 2016, standing out as a Fullstack Developer. My expertise covers various technologies, such as PHP, VUE, QUASAR, REST API, MySQL, MariaDB, Laravel, JSON, JavaScript, jQuery, Angular, Docker, Azure and GIT (Git Flow), among others. I adopt SCRUM and KANBAN methodologies in my workflow, facing challenges with determination.
+Formado em Análise e Desenvolvimento de Sistemas, atuo em desenvolvimento web desde 2016, destacando-me como Desenvolvedor Fullstack. Minha expertise abrange diversas tecnologias, como PHP, VUE, QUASAR, REST API, MySQL, MariaDB, Laravel, JSON, JavaScript, jQuery, Angular, Docker, Azure e GIT (Git Flow), entre outras. Adoto metodologias SCRUM e KANBAN em meu fluxo de trabalho, enfrentando desafios com determinação.
 
-I believe that programming languages and frameworks are tools to achieve goals, and I am always open to exploring new technologies when necessary to overcome challenges. I face complex demands with courage that drive my rapid and constant growth.
+Acredito que linguagens de programação e frameworks são apenas ferramentas para atingir os objetivos, e estou sempre aberto a explorar novas tecnologias quando necessário para superar desafios. Enfrento com coragem demandas complexas que impulsionam meu crescimento rápido e constante.
 
-I am currently improving my English skills through a conversation-focused course. Furthermore, I continue to deepen my knowledge in Design Patterns.
+Atualmente estou melhorando minhas habilidades em inglês através de um curso focado em conversação. Além disso, continuo aprofundando meus conhecimentos em Design Patterns.
 
-Contact by email marcosrealbmata@gmail.com or by phone (82) 996909200.
+Contato pelo e-mail marcosrealbmata@gmail.com ou pelo telefone (82) 996909200.
 
 <div align="center">
   <a href="https://github.com/skymarkos7">
