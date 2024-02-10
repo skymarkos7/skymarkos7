@@ -1,4 +1,4 @@
-Formado em Análise e Desenvolvimento de Sistemas, atuo em desenvolvimento web desde 2016, destacando-me como Desenvolvedor Fullstack. Minha expertise abrange diversas tecnologias, como PHP, VUE, QUASAR, REST API, MySQL, MariaDB, Laravel, JSON, JavaScript, jQuery, Angular, Docker, Azure e GIT (Git Flow), entre outras. Adoto metodologias SCRUM e KANBAN em meu fluxo de trabalho, enfrentando desafios com determinação.
+Formado em Análise e Desenvolvimento de Sistemas, atuo no desenvolvimento web desde 2016, destacando-me como Desenvolvedor Fullstack. Minha expertise abrange diversas tecnologias, como PHP, VUE, QUASAR, REST API, MySQL, MariaDB, Laravel, JSON, JavaScript, jQuery, Angular, Docker, Azure e GIT (Git Flow), entre outras. Adoto metodologias SCRUM e KANBAN em meu fluxo de trabalho e aplicando a metodologia S.O.L.I.D, enfrentando desafios com determinação.
 
 Acredito que linguagens de programação e frameworks são apenas ferramentas para atingir os objetivos, e estou sempre aberto a explorar novas tecnologias quando necessário para superar desafios. Enfrento com coragem demandas complexas que impulsionam meu crescimento rápido e constante.
 
