@@ -20,7 +20,7 @@ Contato pelo e-mail marcosrealbmata@gmail.com ou pelo telefone (82) 996909200.
   <img align="center" alt="Marcos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marcos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marcos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Marcos-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
+  <img align="center" alt="Marcos-Laravel" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.m.wikipedia.org%2Fwiki%2FFicheiro%3ALaravel.svg&psig=AOvVaw3Yi3oKpxBQINlNrz6qlLnN&ust=1709993244068000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjxurDr5IQDFQAAAAAdAAAAABAE)">
   
 </div>
   
