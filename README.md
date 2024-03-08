@@ -7,7 +7,8 @@ Atualmente estou melhorando minhas habilidades em inglês através de um curso f
 Contato pelo e-mail marcosrealbmata@gmail.com ou pelo telefone (82) 996909200.
 
 <div align="center">
- 
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=skymarkos7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skymarkos7&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
