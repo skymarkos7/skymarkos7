@@ -6,8 +6,8 @@ Acredito que linguagens e frameworks são apenas ferramentas para atingir os obj
 
 Atualmente sigo melhorando minhas habilidades em design patterns e lapidando minha comunicação oral em inglês.
 
-E-mail: marcosrealbmata@gmail.com 
-LinkedIn: https://www.linkedin.com/in/skymarkos7
+E-mail: marcosrealbmata@gmail.com  
+LinkedIn: https://www.linkedin.com/in/skymarkos7  
 Telefone: (82) 996909200
 
 ### MEU FLUXO DE TRABALHO PERMANECE NOS SERVIDORES DAS EMPRESAS ONDE CONTRIBUÍ, ENTÃO VOCÊ APENAS VERÁ AQUI PROJETOS MENORES E DE MENOR FREQUÊCIA 
