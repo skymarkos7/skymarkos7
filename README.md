@@ -1,10 +1,14 @@
-Atuo com desenvolvimento web desde 2016 e formado em Análise e desenvolvimento de sistemas em 2019. Hoje atuo como desenvolvedor web Full Stack utilizando Docker, Php, Vue, Angular, Api rest, Mysql, Mariadb, Laravel, JavaScript, Azure, Git e outras, aplicando sempre que possível as metodologias Scrum e Kanban em meu fluxo de trabalho assim como os princípios do S.O.L.I.D.
+Sou desenvolvedor fullstack com mais de cinco anos de experiência em desenvolvimento web, sou formado em Análise e Desenvolvimento de Sistemas, utilizando uma variedade de tecnologias.
 
-Acredito que linguagens de programação e frameworks são apenas ferramentas para atingir os objetivos, e estou sempre aberto a explorar novas tecnologias quando necessário para superar desafios. Enfrento com coragem demandas complexas que impulsionam meu crescimento rápido e constante.
+Minhas principais habilidades técnicas incluem Php, Laravel, Angular, VueJS, Quasar, TypeScript, JavaScript, Docker, APIs RESTful, Sql, Swagger, Azure, Git e testes de unidade com PHPunit. Além disso, sou adepto das metodologias ágeis, aplicando tanto Scrum quanto Kanban em meu fluxo de trabalho. Sempre me esforço para seguir os princípios do S.O.L.I.D em meus projetos, garantindo assim a qualidade e a manutenibilidade do código.
 
-Atualmente estou melhorando minhas habilidades em inglês através de um curso focado em conversação. Além disso, continuo aprofundando meus conhecimentos em Design Patterns.
+Acredito que linguagens e frameworks são apenas ferramentas para atingir os objetivos, e estou aberto a explorar novas tecnologias quando necessário.
 
-Contato pelo e-mail marcosrealbmata@gmail.com ou pelo telefone (82) 996909200.
+Atualmente sigo melhorando minhas habilidades em design patterns e lapidando minha comunicação oral em inglês.
+
+E-mail: marcosrealbmata@gmail.com 
+LinkedIn: https://www.linkedin.com/in/skymarkos7
+Telefone: (82) 996909200
 
 ### MEU FLUXO DE TRABALHO PERMANECE NOS SERVIDORES DAS EMPRESAS ONDE CONTRIBUÍ, ENTÃO VOCÊ APENAS VERÁ AQUI PROJETOS MENORES E DE MENOR FREQUÊCIA 
 
