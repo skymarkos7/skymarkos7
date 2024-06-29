@@ -1,14 +1,19 @@
-Sou desenvolvedor fullstack com mais de cinco anos de experiência em desenvolvimento web, sou formado em Análise e Desenvolvimento de Sistemas, utilizando uma variedade de tecnologias.
+Sou formado em Análise e Desenvolvimento de Sistemas, atuo na area de desenvolvimento web há 6 anos e hoje atuo como desenvolvedor full-stack.
 
-Minhas principais habilidades técnicas incluem Php, Laravel, Angular, VueJS, Quasar, TypeScript, JavaScript, Docker, APIs RESTful, Sql, Swagger, Azure, Git e testes de unidade com PHPunit. Além disso, sou adepto das metodologias ágeis, aplicando tanto Scrum quanto Kanban em meu fluxo de trabalho. Sempre me esforço para seguir os princípios do S.O.L.I.D em meus projetos, garantindo assim a qualidade e a manutenibilidade do código.
+Minhas principais habilidades técnicas incluem **Php, Laravel, Angular, VueJS, Quasar, TypeScript, JavaScript, Docker, APIs RESTful, Sql, Swagger, Azure, Git** e **testes de unidade** com **PHPunit**. Além disso, sou adepto das **metodologias ágeis**, aplicando tanto **Scrum** quanto **Kanban** em meu fluxo de trabalho. Sempre me esforço para seguir os princípios do **S.O.L.I.D** em meus projetos, garantindo assim a qualidade e a manutenibilidade do código.
 
-Acredito que linguagens e frameworks são apenas ferramentas para atingir os objetivos, e estou aberto a explorar novas tecnologias quando necessário.
-
-Atualmente sigo melhorando minhas habilidades em design patterns e lapidando minha comunicação oral em inglês.
+Atualmente lapidando minhas habilidades de comunicação em inglês.
 
 E-mail: marcosrealbmata@gmail.com  
-LinkedIn: https://www.linkedin.com/in/skymarkos7  
-Telefone: (82) 996909200
+LinkedIn: [https://github.com/skymarkos7](https://www.linkedin.com/in/skymarkos7/)  
+Telefone: [(82) 996909200](https://wa.me/5582996909200)
+
+<div> 
+  <a href="https://www.youtube.com/channel/UCTzwxKtJzXQv7gykusvbxTA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href = "mailto:marcosrealbmata@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/skymarkos7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<!--   ![Snake animation](https://github.com/skymarkos7/skymarkos7/blob/output/github-contribution-grid-snake.svg) -->
+</div>
 
 ### MEU FLUXO DE TRABALHO PERMANECE NOS SERVIDORES DAS EMPRESAS ONDE CONTRIBUÍ, ENTÃO VOCÊ APENAS VERÁ AQUI PROJETOS MENORES E DE MENOR FREQUÊCIA 
 
@@ -34,14 +39,3 @@ Telefone: (82) 996909200
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skymarkos7&theme=nord_bright)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=skymarkos7&theme=nord_bright&)
   
- 
-<div> 
-  <a href="https://www.youtube.com/channel/UCNXCfFSX4UwJnl5UMWIyMyw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/skymarkos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:marcosrealbmata@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/skymarkos7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/skymarkos7/skymarkos7/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
-##
