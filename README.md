@@ -9,9 +9,9 @@ LinkedIn: [https://github.com/skymarkos7](https://www.linkedin.com/in/skymarkos7
 Telefone: [(82) 996909200](https://wa.me/5582996909200)
 
 <div> 
-  <a href="https://www.youtube.com/channel/UCTzwxKtJzXQv7gykusvbxTA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href = "mailto:marcosrealbmata@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/skymarkos7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:marcosrealbmata@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UCTzwxKtJzXQv7gykusvbxTA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <!--   ![Snake animation](https://github.com/skymarkos7/skymarkos7/blob/output/github-contribution-grid-snake.svg) -->
 </div>
 
