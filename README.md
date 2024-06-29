@@ -12,12 +12,6 @@ Telefone: (82) 996909200
 
 ### MEU FLUXO DE TRABALHO PERMANECE NOS SERVIDORES DAS EMPRESAS ONDE CONTRIBUÍ, ENTÃO VOCÊ APENAS VERÁ AQUI PROJETOS MENORES E DE MENOR FREQUÊCIA 
 
-<div align="center">
-  <a href="https://github.com/skymarkos7">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skymarkos7&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 <div style="display: inline_block"><br> 
   <img align="center" alt="Marcos-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Marcos-php" height="30" width="40" src="https://www.positivethinking.tech/wp-content/uploads/2021/01/Logo-Vuejs.png">
@@ -36,6 +30,10 @@ Telefone: (82) 996909200
 </div>
   
   ##
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skymarkos7&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=skymarkos7&theme=nord_bright&)
+  
  
 <div> 
   <a href="https://www.youtube.com/channel/UCNXCfFSX4UwJnl5UMWIyMyw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
