@@ -19,23 +19,18 @@ Telefone: [(82) 996909200](https://wa.me/5582996909200)
 
 <div style="display: inline_block"><br> 
   <img align="center" alt="Marcos-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Marcos-php" height="30" width="40" src="https://www.positivethinking.tech/wp-content/uploads/2021/01/Logo-Vuejs.png">
-  <img align="center" alt="Marcos-php" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-  <img align="center" alt="Marcos-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+  <img align="center" alt="Marcos-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">
    <img align="center" alt="Marcos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Marcos-Node" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align="center" alt="Marcos-vue" height="30" width="40" src="https://www.positivethinking.tech/wp-content/uploads/2021/01/Logo-Vuejs.png">
+  <img align="center" alt="Marcos-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />   
   <img align="center" alt="Marcos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marcos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Marcos-mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+  <img align="center" alt="Marcos-Sql" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
   <img align="center" alt="Marcos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Marcos-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">
-  <img align="center" alt="Marcos-Laravel" height="50" width="60"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img align="center" alt="Marcos-Laravel" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />      
   
 </div>
-  
-  ##
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skymarkos7&theme=nord_bright)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skymarkos7&theme=nord_bright) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=skymarkos7&theme=nord_bright&)
-  
