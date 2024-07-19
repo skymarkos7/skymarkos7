@@ -1,3 +1,6 @@
+Hello, world!
+<hr>
+
 Sou formado em Análise e Desenvolvimento de Sistemas, atuo na area de desenvolvimento web há 6 anos e hoje atuo como desenvolvedor full-stack.
 
 Minhas principais habilidades técnicas incluem **Php, Laravel, Angular, VueJS, Quasar, TypeScript, JavaScript, Docker, APIs RESTful, Sql, Swagger, Azure, Git** e **testes de unidade** com **PHPunit**. Além disso, sou adepto das **metodologias ágeis**, aplicando tanto **Scrum** quanto **Kanban** em meu fluxo de trabalho. Sempre me esforço para seguir os princípios do **S.O.L.I.D** em meus projetos, garantindo assim a qualidade e a manutenibilidade do código.
