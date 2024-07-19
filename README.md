@@ -20,6 +20,8 @@ Telefone: [(82) 996909200](https://wa.me/5582996909200)
 
 ### MEU FLUXO DE TRABALHO PERMANECE NOS SERVIDORES DAS EMPRESAS ONDE CONTRIBUÍ, ENTÃO VOCÊ APENAS VERÁ AQUI PROJETOS MENORES E DE MENOR FREQUÊCIA 
 
+## 🔥 Skills
+
 <div style="display: inline_block"><br> 
   <img align="center" alt="Marcos-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Marcos-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">
