@@ -3,17 +3,17 @@
 <hr>
 
 👨‍💻 Marcos Lourenço de Souza
-Full-Stack Developer | Web Enthusiast | Code Craftsperson
+Full-Stack Developer | Web Enthusiast | Code Craftsperson   
 
-Hello! I hold a degree in Systems Analysis and Development and have been working in web development for 6 years. Currently, I work as a full-stack developer, creating innovative and efficient solutions!
+Hello! I hold a degree in Systems Analysis and Development and have been working in web development for 6 years. Currently, I work as a full-stack developer, creating innovative and efficient solutions!   
 
-🔧 My favorite tools:
-PHP, Laravel, Angular, Vue.js, Quasar, TypeScript, JavaScript, Docker, RESTful APIs, SQL, Swagger, Azure, Git
+🔧 My favorite tools:   
+PHP, Laravel, Angular, Vue.js, Quasar, TypeScript, JavaScript, Docker, RESTful APIs, SQL, Swagger, Azure, Git    
 💡 Unit testing: PHPunit (Because well-tested code is happy code!)
 
-I’m passionate about agile methodologies and apply Scrum and Kanban in my workflow. I also follow S.O.L.I.D principles to ensure my code is clean, maintainable, and scalable.
+I’m passionate about agile methodologies and apply Scrum and Kanban in my workflow. I also follow S.O.L.I.D principles to ensure my code is clean, maintainable, and scalable.   
 
-🚀 Currently, I’m sharpening my English communication skills to explore even more in the tech world!
+🚀 Currently, I’m sharpening my English communication skills to explore even more in the tech world!   
 
 Let’s connect!  
 📧 Email: marcosrealbmata@gmail.com  
