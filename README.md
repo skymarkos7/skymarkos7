@@ -48,3 +48,7 @@ Let’s connect!
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skymarkos7&theme=nord_bright) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=skymarkos7&theme=nord_bright&)
+
+
+
+![GitHub Activity Graph](https://github-readme-stats.vercel.app/api/top-langs/?username=skymarkos7)
