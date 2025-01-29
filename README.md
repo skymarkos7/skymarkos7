@@ -1,15 +1,24 @@
-Hello, world!
+<span style="font-family: Arial, sans-serif;">Hello, world!</span>
+
 <hr>
 
-Sou formado em Análise e Desenvolvimento de Sistemas, atuo na area de desenvolvimento web há 6 anos e hoje atuo como desenvolvedor full-stack.
+👨‍💻 Marcos Lourenço de Souza
+Full-Stack Developer | Web Enthusiast | Code Craftsperson
 
-Minhas principais habilidades técnicas incluem **Php, Laravel, Angular, VueJS, Quasar, TypeScript, JavaScript, Docker, APIs RESTful, Sql, Swagger, Azure, Git** e **testes de unidade** com **PHPunit**. Além disso, sou adepto das **metodologias ágeis**, aplicando tanto **Scrum** quanto **Kanban** em meu fluxo de trabalho. Sempre me esforço para seguir os princípios do **S.O.L.I.D** em meus projetos, garantindo assim a qualidade e a manutenibilidade do código.
+Hello! I hold a degree in Systems Analysis and Development and have been working in web development for 6 years. Currently, I work as a full-stack developer, creating innovative and efficient solutions!
 
-Atualmente lapidando minhas habilidades de comunicação em inglês.
+🔧 My favorite tools:
+PHP, Laravel, Angular, Vue.js, Quasar, TypeScript, JavaScript, Docker, RESTful APIs, SQL, Swagger, Azure, Git
+💡 Unit testing: PHPunit (Because well-tested code is happy code!)
 
-E-mail: marcosrealbmata@gmail.com  
-LinkedIn: [https://github.com/skymarkos7](https://www.linkedin.com/in/skymarkos7/)  
-Telefone: [(82) 996909200](https://wa.me/5582996909200)
+I’m passionate about agile methodologies and apply Scrum and Kanban in my workflow. I also follow S.O.L.I.D principles to ensure my code is clean, maintainable, and scalable.
+
+🚀 Currently, I’m sharpening my English communication skills to explore even more in the tech world!
+
+Let’s connect!  
+📧 Email: marcosrealbmata@gmail.com  
+🔗 LinkedIn: skymarkos7  
+📱 Phone: (82) 996909200 
 
 <div> 
   <a href="https://www.linkedin.com/in/skymarkos7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -18,7 +27,7 @@ Telefone: [(82) 996909200](https://wa.me/5582996909200)
 <!--   ![Snake animation](https://github.com/skymarkos7/skymarkos7/blob/output/github-contribution-grid-snake.svg) -->
 </div>
 
-### MEU FLUXO DE TRABALHO PERMANECE NOS SERVIDORES DAS EMPRESAS ONDE CONTRIBUÍ, ENTÃO VOCÊ APENAS VERÁ AQUI PROJETOS MENORES E DE MENOR FREQUÊCIA 
+### My workflow remains on the servers of the companies I've contributed to, so here you will only see smaller and less frequent projects.
 
 ## 🔥 Skills
 
