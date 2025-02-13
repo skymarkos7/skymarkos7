@@ -18,7 +18,7 @@ I’m passionate about agile methodologies and apply Scrum and Kanban in my work
 Let’s connect!  
 📧 Email: marcosrealbmata@gmail.com  
 🔗 LinkedIn: [skymarkos7 ](https://www.linkedin.com/in/skymarkos7/)   
-📱 Phone: (82) 996909200 
+📱 Phone: +55 (82) 996909200 
 
 <div> 
   <a href="https://www.linkedin.com/in/skymarkos7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
