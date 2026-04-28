@@ -71,7 +71,7 @@
 - 🔧 Specialized Systems Development
 - 📱 Responsive Design & UX/UI
 
-> 💡 **Professional Portfolio:** [marcos7.com.br](https://marcos7.com.br)
+> 💡 **Professional Portfolio:** [marcos7.dev](https://marcos7.dev)
 
 ---
 
