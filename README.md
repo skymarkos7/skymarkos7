@@ -129,7 +129,7 @@ const marcos = {
 <div align="center">
   
 ### 🌐 Professional Portfolio
-[![Portfolio](https://img.shields.io/badge/🌟-marcos7.com.br-2563EB?style=for-the-badge&labelColor=1e293b)](https://marcos7.com.br)
+[![Portfolio](https://img.shields.io/badge/🌟-marcos7.dev-2563EB?style=for-the-badge&labelColor=1e293b)](https://marcos7.dev)
 
 </div>
 
